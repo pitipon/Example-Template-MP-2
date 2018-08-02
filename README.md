@@ -1,1 +1,3 @@
-# Example-Template-MP-1
+# Example-Template-MP-2
+
+Import Template

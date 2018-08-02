@@ -1,0 +1,7 @@
+<!-- TEMPLATE -->
+<template name="myMessage">
+        <!-- { name: string, message: string } -->
+      <view style="padding: 10px; margin: 10px; border: 5px solid green; border-radius: 20px;">
+        <text> {{name}} say: {{message}} </text>
+      </view>
+</template>
